@@ -11,6 +11,12 @@ Clicky is a 2D game crafted with 3D objects. , Try to catch flying objects witho
  
 </p>
 
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/L3QDIKtuiEudogihSn/giphy.gif" width="100%" alt="API Giphy logo"/>
+ 
+</p>
+
+
 
 
 
